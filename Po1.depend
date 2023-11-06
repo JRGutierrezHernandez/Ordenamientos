@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698775603 source:c:\users\admin\desktop\prueba 1\po1\main.cpp
+	"Lista.h"
+	"Lista.cpp"
+	<locale>
+
+1698775680 c:\users\admin\desktop\prueba 1\po1\lista.h
+	<iostream>
+	<string>
+
+1698775640 c:\users\admin\desktop\prueba 1\po1\lista.cpp
+	"Lista.h"
+
